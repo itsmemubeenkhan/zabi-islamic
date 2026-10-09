@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Prise de la prière aujourd'hui dans",
   "todays_Prayer_Time": "Prise de la prière aujourd'hui",
   "fajr": "L'aube",
@@ -226,7 +226,6 @@
   "unknown_title_key": "Titre inconnu",
   "previous_sura": "Sourate précédente",
   "next_sura": "Sourate suivante",
-  "set_prayer_time_format" : "Définir le format de l'heure de prière",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Afficher le format de l'heure de prière sous forme d'horloge 24 heures"
-
+  "set_prayer_time_format": "Définir le format de l'heure de prière",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Afficher le format de l'heure de prière sous forme d'horloge 24 heures"
 }

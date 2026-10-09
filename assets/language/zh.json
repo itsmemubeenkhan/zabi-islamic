@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "今天的祈祷时间是",
   "todays_Prayer_Time": "今天的祈祷时间",
   "fajr": "黎明",
@@ -226,6 +226,6 @@
   "unknown_title_key": "未知标题",
   "previous_sura": "上一苏拉",
   "next_sura": "下一苏拉",
-  "set_prayer_time_format" : "设置祈祷时间格式",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "以24小时制显示祈祷时间"
+  "set_prayer_time_format": "设置祈祷时间格式",
+  "show_prayer_time_formation_as_a_24_hr_clock": "以24小时制显示祈祷时间"
 }

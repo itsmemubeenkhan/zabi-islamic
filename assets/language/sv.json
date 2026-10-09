@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Idagens bönstid i",
   "todays_Prayer_Time": "Idagens bönstid",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Okänd titel",
   "previous_sura": "Föregående sura",
   "next_sura": "Nästa sura",
-  "set_prayer_time_format" : "Ställ in bönetidsformat",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Visa bönetidsformat som en 24-timmars klocka"
+  "set_prayer_time_format": "Ställ in bönetidsformat",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Visa bönetidsformat som en 24-timmars klocka"
 }

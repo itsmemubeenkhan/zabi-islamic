@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Время молитвы сегодня в",
   "todays_Prayer_Time": "Время молитвы сегодня",
   "fajr": "Фаджр",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Неизвестное название",
   "previous_sura": "Предыдущая сура",
   "next_sura": "Следующая сура",
-  "set_prayer_time_format" : "Установить формат времени молитвы",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Показать время молитвы в формате 24-часового цикла"
+  "set_prayer_time_format": "Установить формат времени молитвы",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Показать время молитвы в формате 24-часового цикла"
 }

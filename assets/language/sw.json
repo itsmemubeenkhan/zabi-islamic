@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Muda wa Salio la Leo katika",
   "todays_Prayer_Time": "Salio la Leo",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Kichwa kisichojulikana",
   "previous_sura": "Sura ya awali",
   "next_sura": "Sura inayofuata",
-  "set_prayer_time_format" : "Seti muundo wa muda wa sala",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Onyesha muundo wa muda wa sala kama saa 24"
+  "set_prayer_time_format": "Seti muundo wa muda wa sala",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Onyesha muundo wa muda wa sala kama saa 24"
 }

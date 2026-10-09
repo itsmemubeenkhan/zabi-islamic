@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Godzinę modlitwy w dniu",
   "todays_Prayer_Time": "Godzina modlitwy w dniu",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Nieznany tytuł",
   "previous_sura": "Poprzednia sura",
   "next_sura": "Następna sura",
-  "set_prayer_time_format" : "Ustaw format czasu modlitwy",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Pokaż format czasu modlitwy jako zegar 24-godzinny"
+  "set_prayer_time_format": "Ustaw format czasu modlitwy",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Pokaż format czasu modlitwy jako zegar 24-godzinny"
 }

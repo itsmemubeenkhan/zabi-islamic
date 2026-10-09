@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "আজকের প্রার্থনার সময়",
   "todays_Prayer_Time": "আজকের প্রার্থনার সময়",
   "fajr": "ফজর",
@@ -216,7 +216,7 @@
   "my_selected_city": "আমার নির্বাচিত শহর: ",
   "city_settings": "আমার নির্বাচিত শহর",
   "select_payment_mode": "পেমেন্ট মোড নির্বাচন করুন (লাইভ বা স্যান্ডবক্স)",
-  "audio_quran": "অডিও কুরআন", 
+  "audio_quran": "অডিও কুরআন",
   "all_reciters_key": "সব ক্বারী",
   "no_name_found_key": "কোন নাম পাওয়া যায়নি",
   "audio_list_key": "অডিও তালিকা",
@@ -226,6 +226,6 @@
   "unknown_title_key": "অজ্ঞাত শিরোনাম",
   "previous_sura": "পূর্ববর্তী সূরা",
   "next_sura": "পরবর্তী সূরা",
-  "set_prayer_time_format" : "নামাজের সময়ের ফরম্যাট সেট করুন",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "২৪ ঘন্টার ঘড়ির মতো নামাজের সময়ের ফরম্যাট দেখান"
+  "set_prayer_time_format": "নামাজের সময়ের ফরম্যাট সেট করুন",
+  "show_prayer_time_formation_as_a_24_hr_clock": "২৪ ঘন্টার ঘড়ির মতো নামাজের সময়ের ফরম্যাট দেখান"
 }

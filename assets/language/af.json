@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Wakati wa Salio la leo katika",
   "todays_Prayer_Time": "Wakati wa Salio la leo",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Onbekende titel",
   "previous_sura": "Vorige Sura",
   "next_sura": "Volgende Sura",
-  "set_prayer_time_format" : "Stel gebedstyd formaat",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Toon gebedstyd as 'n 24 uur horlosie"
+  "set_prayer_time_format": "Stel gebedstyd formaat",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Toon gebedstyd as 'n 24 uur horlosie"
 }

@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Bugünün Namaz Zamanı",
   "todays_Prayer_Time": "Bugünün Namaz Zamanı",
   "fajr": "Fecr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Bilinmeyen başlık",
   "previous_sura": "Önceki sure",
   "next_sura": "Sonraki sure",
-  "set_prayer_time_format" : "Namaz Zamanı Formatını Ayarla",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "24 saatlik saat olarak göster"
+  "set_prayer_time_format": "Namaz Zamanı Formatını Ayarla",
+  "show_prayer_time_formation_as_a_24_hr_clock": "24 saatlik saat olarak göster"
 }

@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "وقت الصلاة اليوم في",
   "todays_Prayer_Time": "وقت الصلاة اليوم",
   "fajr": "الفجر",
@@ -225,6 +225,6 @@
   "unknown_title_key": "عنوان غير معروف",
   "previous_sura": "السورة السابقة",
   "next_sura": "السورة التالية",
-  "set_prayer_time_format" : "تعيين تنسيق وقت الصلاة",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "عرض تنسيق وقت الصلاة كساعة 24"
+  "set_prayer_time_format": "تعيين تنسيق وقت الصلاة",
+  "show_prayer_time_formation_as_a_24_hr_clock": "عرض تنسيق وقت الصلاة كساعة 24"
 }

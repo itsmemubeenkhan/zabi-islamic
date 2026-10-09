@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Tänä päivänä bönnausaika",
   "todays_Prayer_Time": "Tänä päivänä bönnausaika",
   "fajr": "Fajr",
@@ -193,7 +193,6 @@
   "notification_settings": "Ilmoitusasetukset",
   "device_angle_to_qibla": "Laitepisteen kohde Qibla",
   "choose_sound_for_notification": "Valitse ilmoitusääni",
-
   "search": "Hae",
   "email": "Sähköposti",
   "enter_your_email": "Syötä sähköpostiosoitteesi",
@@ -227,6 +226,6 @@
   "unknown_title_key": "Tuntematon nimi",
   "previous_sura": "Edellinen suura",
   "next_sura": "Seuraava suura",
-  "set_prayer_time_format" : "Aseta rukousajan muoto",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Näytä rukousajan muoto 24 tunnin kellonaikana"
+  "set_prayer_time_format": "Aseta rukousajan muoto",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Näytä rukousajan muoto 24 tunnin kellonaikana"
 }

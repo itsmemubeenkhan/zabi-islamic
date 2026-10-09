@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Vrijeme molitve danas u",
   "todays_Prayer_Time": "Danaska vremena molitve",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Nepoznat naslov",
   "previous_sura": "Prethodna sura",
   "next_sura": "Sljedeća sura",
-  "set_prayer_time_format" : "Postavi format vremena molitve",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Prikaži format vremena molitve kao 24-satni sat"
+  "set_prayer_time_format": "Postavi format vremena molitve",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Prikaži format vremena molitve kao 24-satni sat"
 }

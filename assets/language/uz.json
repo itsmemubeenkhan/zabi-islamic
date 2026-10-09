@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "Bugungi kechasi namoz vaqtida",
   "todays_Prayer_Time": "Bugungi kechasi namoz vaqti",
   "fajr": "Fajr",
@@ -226,6 +226,6 @@
   "unknown_title_key": "Noma'lum sarlavha",
   "previous_sura": "Oldingi sura",
   "next_sura": "Keyingi sura",
-  "set_prayer_time_format" : "Namoz vaqtini formatini tanlang",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "Namoz vaqtini 24 soatlik formatda ko'rsatish"
+  "set_prayer_time_format": "Namoz vaqtini formatini tanlang",
+  "show_prayer_time_formation_as_a_24_hr_clock": "Namoz vaqtini 24 soatlik formatda ko'rsatish"
 }

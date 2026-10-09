@@ -1,5 +1,5 @@
 {
-  "app_name": "Zabi",
+  "app_name": "DeenDaily",
   "todays_Prayer_Time_in": "आज की नमाज का समय",
   "todays_Prayer_Time": "आज की नमाज",
   "fajr": "फज्र",
@@ -226,6 +226,6 @@
   "unknown_title_key": "अज्ञात शीर्षक",
   "previous_sura": "पिछला सूरह",
   "next_sura": "अगला सूरह",
-  "set_prayer_time_format" : "प्रार्थना समय प्रारूप सेट करें",
-  "show_prayer_time_formation_as_a_24_hr_clock" : "24 घंटे की घड़ी के रूप में प्रार्थना समय दिखाएं"
+  "set_prayer_time_format": "प्रार्थना समय प्रारूप सेट करें",
+  "show_prayer_time_formation_as_a_24_hr_clock": "24 घंटे की घड़ी के रूप में प्रार्थना समय दिखाएं"
 }
